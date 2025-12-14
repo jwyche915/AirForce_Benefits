@@ -9,4 +9,4 @@ venv/
 **/_build/
 
 # vscode
-.vscode/
+!.vscode/
