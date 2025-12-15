@@ -6,6 +6,9 @@ root: intro
 parts:
   - caption: Course Info
     chapters:
+      - file: competitive_pay
+      - file: digital_unversity
+      - file: bullet_list
       - file: syllabus
       - file: schedule
       - file: faq
