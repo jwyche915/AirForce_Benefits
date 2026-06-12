@@ -7,5 +7,6 @@ parts:
   - caption: Air Force Benefits Package
     chapters:
       - file: competitive_pay
+      - file: medical_dental
       - file: post_9-11_gi_bill
       - file: tuition_assistance
