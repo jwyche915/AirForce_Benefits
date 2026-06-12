@@ -1,16 +1,28 @@
-# My List of Demands - Why the Air Force Benefits Package is Unmatched
+# My List of Demands: Why the Air Force Benefits Package is Unmatched
 
-This website attempts to provide a consolidated location outlining the benefits package members serving on active duty in the United States Air Force will receive. The intent is to educate the public on how PHENOMENAL the benefits package is. It is arguably unmatched by any job in the civilian sector. Hopefully it will inspire individuals to consider the Air Force as a viable career option.
+Imagine walking into a civilian job interview—especially with no previous experience or college degree—and sliding this list of demands across the table:
 
-If you're interested in joining the Air Force, you can find your local Air Force recruiter using the online [find a recruiter](https://www.airforce.com/find-a-recruiter) tool.
+* A starting salary package that competes directly with careers requiring a 4-year college degree
+* 100% covered medical and dental for me and my family
+* 30 days of vacation with pay per year (plus time off on federal holidays)
+* Full college tuition, a monthly housing allowance, and a book stipend for 36 months (which can even be passed to my dependents)
+* A guaranteed home mortgage with $0 down and no Private Mortgage Insurance (PMI)
 
-# Origin of My List of Demands
+The hiring manager would probably laugh you out of the room. 
 
-During a presentation in the summer of 2023, the Commander of Air Force Recruiting Service mentioned something he read/heard from someone about “my list of demands.” It was essentially a list of the benefits the Air Force offers and the list potential applicants should ask their current/future employers for. If the employer can’t meet that list of demands, then maybe the potential applicant should stop being a potential applicant and actually apply to join the Air Force.
+Yet, this isn't a fantasy list. This is the baseline benefits package offered to every active-duty member of the United States Air Force. 
 
-If anyone walked into a job interview asking for the benefits package offered to Air Force members, the hiring official would probably laugh. But, I think that highlights how great the opportunities are in the Air Force. While there are employers that offer some of these, I’d argue there aren’t any employers offering a total pay/benefits package that rivals what the Air Force offers. This is especially true for an individual with no previous job experience or college education.
+During a presentation in the summer of 2023, the Commander of the Air Force Recruiting Service shared this exact concept: the "List of Demands." It highlights a simple truth. If your current or future employer can’t meet these demands, maybe it's time to stop looking in the civilian sector and apply to join the Air Force.
+
+This site is a comprehensive breakdown of that list. We explore the phenomenal total pay and benefits package the Air Force provides—a package that is arguably unmatched by any civilian entry-level career.
+
+Explore the benefits below:
 
 ```{tableofcontents}
 ```
 
-> Disclaimer: The contents of this website are for educational purposes only and do not reflect the official policy or position of the Department of the Air Force or the U.S. Government.
+---
+**Ready to take the next step?** 
+If you're interested in joining, you can find your local recruiter using the online [Find a Recruiter](https://www.airforce.com/find-a-recruiter) tool.
+
+> *Disclaimer: The contents of this website are for educational purposes only and do not reflect the official policy or position of the Department of the Air Force or the U.S. Government.*

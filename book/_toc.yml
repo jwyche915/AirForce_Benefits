@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Course Info
+  - caption: Air Force Benefits Package
     chapters:
       - file: competitive_pay
       - file: digital_university
