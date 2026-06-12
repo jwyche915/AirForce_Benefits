@@ -32,7 +32,7 @@ While there are hundreds of institutions that offer a military tuition discount,
 
 To maximize your \$4,500 annual limit, the Air Force offers an incredible secondary benefit: **Free CLEP and DSST exams.** 
 
-Through a military program called DANTES, active-duty members can take [CLEP (College-Level Examination Program)](https://clep.collegeboard.org/clep-military-benefits) and [DSST (DANTES Subject Standardized Tests)](https://www.getcollegecredit.com/active-duty-veteran-military-members/) exams with the testing fees completely waived for the first attempt.
+Through a military program called DANTES, active-duty members can take [CLEP (College-Level Examination Program)](https://clep.collegeboard.org/clep-military-benefits) and [DSST (DANTES Subject Standardized Tests)](https://getcollegecredit.com/test-takers/active-duty-veteran/) exams with the testing fees completely waived for the first attempt.
 
 Instead of sitting through a 16-week College Algebra or U.S. History class and using up your TA funds, you can take a single multiple-choice test. If you pass, you instantly earn the college credits for free. By testing out of your general education requirements, you save your TA budget strictly for your major-specific courses, allowing you to graduate much faster.
 
