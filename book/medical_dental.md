@@ -27,7 +27,7 @@ Here is how TRICARE Prime compares to the average employer-sponsored health plan
 | **In-Network Copays (Primary/Specialist)** | \$20 - \$50+ per visit | **$0** |
 
 *Data Sources:* 
-- *Civilian averages are sourced from the [Kaiser Family Foundation (KFF) 2025 Employer Health Benefits Survey](https://www.kff.org/report-section/ehbs-2025-summary-of-findings/).*
+- *Civilian averages are sourced from the [Kaiser Family Foundation (KFF) 2025 Employer Health Benefits Survey](https://www.kff.org/health-costs/2025-employer-health-benefits-survey/).*
 - *Military costs are sourced from the official [TRICARE Prime Cost Table](https://www.tricare.mil/Costs/Compare).*
 
 ---
@@ -83,7 +83,7 @@ Braces are a significant expense for parents. The TRICARE Dental Program covers 
 * **Scenario B (Complex Treatment):** Your daughter needs braces that cost \$5,000. 
   - TDP pays the lifetime maximum: **$1,750**
   - You pay the remaining balance: **$3,250**
-* *Verify orthodontic guidelines on the [TRICARE Dental Orthodontic Care](https://www.tricare.mil/CoveredServices/Dental/TDP/Orthodontic) page.*
+* *Verify orthodontic guidelines on the [TRICARE Dental Cost-Shares](https://www.tricare.mil/Costs/DentalCosts/TDP/CostShares) page.*
 
 ---
 
