@@ -7,13 +7,6 @@ parts:
   - caption: Course Info
     chapters:
       - file: competitive_pay
-      - file: digital_unversity
-      - file: bullet_list
-      - file: syllabus
-      - file: schedule
-      - file: faq
+      - file: digital_university
   - caption: Readings
     chapters:
-      - file: markdown
-      - file: notebooks
-      - file: markdown-notebooks
