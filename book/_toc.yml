@@ -8,5 +8,3 @@ parts:
     chapters:
       - file: competitive_pay
       - file: digital_university
-  - caption: Readings
-    chapters:
