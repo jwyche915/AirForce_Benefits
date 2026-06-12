@@ -1,8 +1,8 @@
-# Jupyter Book Template for GitHub Pages
+# Air Force Benefits Website Using a Jupyter Book Template for GitHub Pages
 
 A simple demo of how to deploy a [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) static website to [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) that is automatically built with [GitHub Actions](https://docs.github.com/en/actions).
 
-Pages are deployed to `<username>.github.io/<repository-name>`. The live example of this demo is at https://usafa-ece.github.io/jupyterbook-template/
+Pages are deployed to `<username>.github.io/<repository-name>`. The live example of this demo is at https://jwyche915.github.io/AirForce_Benefits/
 
 - Recommend reading [Structure the Table of Contents](https://jupyterbook.org/en/stable/structure/toc.html) for the `book/_toc.yml` file
 - Recommend reading [Markdown files](https://jupyterbook.org/en/stable/file-types/markdown.html) in Jupyter Books
@@ -43,6 +43,8 @@ Making updates to the content can be as simple as adding/editing the Markdown or
 
 #### Preview site before you push
 
+If you use VS Code and the MyST-Markdown extension then most everything should render well enough for a preview.
+
 If you want to build the site locally, you need to install Jupyter Book.
 This requires Python 3.9 or higher, which you should run in a virtual environment.
 
@@ -78,3 +80,21 @@ You have to rebuild every time you make changes in order to preview them.
 Note that `_build/` is in the `.gitignore` file because the actions build what is actually deployed.
 
 Once satisfied, push to `main` and github actions will auto-deploy!
+
+## Exporting to PDF
+
+**Note:** [Build a PDF](https://jupyterbook.org/en/stable/advanced/pdf.html) is in active development
+and may have bugs or breaking changes. Consult docs.
+
+Install dependencies:
+
+```bash
+pip install playwright
+playwright install --with-deps chromium
+```
+
+Build:
+
+```bash
+jupyter-book build book/ --builder pdfhtml
+```

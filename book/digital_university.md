@@ -14,6 +14,6 @@ In addition to the Digital University, there is also a program called Veteran Em
 
 So, now you have another item for your “list of demands.”
 
-Access to Silicon Valley accredited technical training, free of charge for as long as I work for the company (can take as many courses offered by the company)
+Access to Silicon Valley accredited technical training, free of charge for as long as I work for the company (and I can take as many courses offered by the company)
 
 > Disclaimer: The contents of this website are for educational purposes only and do not reflect the official policy or position of the Department of the Air Force or the U.S. Government.

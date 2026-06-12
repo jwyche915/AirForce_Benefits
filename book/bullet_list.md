@@ -1,22 +1,29 @@
-# Competitive Pay
+# Bullet List
 
-Our society pushes college as the "golden ticket" to success. And while getting a college degree is ONE path to "success", there are other viable options that are often overlooked. The Air Force being one of them. This section attempts to present a comparison of a college graduate to someone who chose to enlist in the Air Force. 
+30 days of vacation per year
 
-SrA Yearly Salary at 4 Years of Service (note: these numbers were calculated based on Orlando, FL)
+11 additional days off on federal holidays
 
-Single Airman
-$66,870 – includes base pay, BAH, BAS
-$82,500 – the equivalent civilian pay if the $66,870 were fully taxed and included comparable medical coverage
+Medical/dental coverage for me and my dependents (no/low premiums and no/min deductibles)
 
-Airmen with Dependents (calculated as married with one child)
-$73,962 – includes base pay, BAH, BAS
-$92,500 – the equivalent civilian pay if the $73,962 were fully taxed and included comparable medical coverage
- 
-Entry Level Salaries for Jobs Needing a 4-year College Degree
-Teacher in OCPS - $49,375 (OCPS website)
-Registered Nurse in Orlando - $54,900 (Zip Recruiter)
-Electrical Engineer in Orlando  - $85,929 (Zip Recruiter)
+$4,500 for college tuition assistance per year (while working for the company)
 
-You can spend 4 years getting a college degree…and student loan debt…and end up making less than someone who joined the Air Force with zero college credits. Or you can join the Air Force, let Uncle Sugar pay for your college degree…AND make more money while doing so. I’m no genius….BUUUUUUUT, I’m pretty sure I know which choice is a better financial one.
+College tuition, housing allowance, and book stipend for 8 semesters of college (after leaving the company; and can be passed to my dependents if I don’t use it)
+
+$4,500 for additional certifications outside of a college degree
+
+Education and career assistance for my spouse
+
+Technical training and on-the-job upgrade training
+
+ZERO previous experience required
+
+paid a salary with all benefits will I’m in training
+
+Free gym membership
+
+10-20% off at some restaurants/stores in the community
+
+I want you to guarantee my home mortgage. I’m not gonna give you any money down or pay PMI.
 
 > Disclaimer: The contents of this website are for educational purposes only and do not reflect the official policy or position of the Department of the Air Force or the U.S. Government.
