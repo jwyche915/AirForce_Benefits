@@ -19,8 +19,8 @@ We will compare the entry-level salary of a recent college graduate against the 
 | **Teacher (OCPS)** | $55,156 | $55,156 |
 | **Registered Nurse** | $58,828 | $58,828 |
 | **Electrical Engineer** | $80,638 | $80,638 |
-| **Airman (Single)** | $69,415 | **~$85,000** |
-| **Airman (Married/1 Child)** | $82,843 | **~$105,000** |
+| **Airman (Single)** | $71,729 | **~$85,000** |
+| **Airman (Married/1 Child)** | $79,073 | **~$105,000** |
 
 ### The Verdict
 
@@ -28,11 +28,15 @@ You could spend four years grinding through college—**often accumulating signi
 
 Even if you graduate debt-free or pursue a highly-paid STEM career like Electrical Engineering, the Airman is still years ahead financially. While the college student spent four years paying tuition (or using up scholarships) just to *qualify* for a job, the Airman spent those same four years earning a salary, gaining hands-on experience, and accumulating a free college education through Air Force Tuition Assistance and the Post-9/11 GI Bill. 
 
-You can pay for your degree (or spend your scholarships early), or you can let the Air Force pay you to earn it. When you look at the total financial picture, the choice is clear.
+You can pay for your degree, or you can let the Air Force pay you to earn it. When you look at the total financial picture, the choice is clear.
 
 ### Data Sources & Methodology (June 2026)
-* **Military Pay:** Based on the official 2026 DFAS Military Pay Chart for an E-4 with over 4 years of service (\$41,788.68/yr), plus the 2026 Enlisted BAS rate (\$5,523/yr).
-* **Housing Allowance (BAH):** Based on the 2026 DTMO BAH Calculator for Military Housing Area FL062 (Orlando, FL). Single rate: \$22,104/yr. With Dependents rate: \$35,532/yr.
+* **Military Pay:** Based on the official [2026 DFAS Military Pay Chart](https://www.dfas.mil/MilitaryMembers/payentitlements/Pay-Tables/Basic-Pay/EM/) for an E-4 with over 4 years of service (\$43,902/yr), plus the [2026 Enlisted BAS rate](https://www.dfas.mil/MilitaryMembers/payentitlements/Pay-Tables/bas/) (\$5,723/yr).
+* **Housing Allowance (BAH):** Based on the [2026 DTMO BAH Calculator](https://www.travel.dod.mil/Allowances/Basic-Allowance-for-Housing/BAH-Rate-Lookup/) for Military Housing Area FL062 (Orlando, FL). Single rate: \$22,104/yr. With Dependents rate: \$29,448/yr.
 * **Civilian Salaries:** Teacher salary sourced from the Orange County Public Schools (OCPS) 2025-2026 starting step scale. RN and Electrical Engineer salaries sourced from ZipRecruiter's entry-level averages for Orlando, FL.
+
+---
+**Ready to take the next step?** 
+If you're interested in joining, you can find your local recruiter using the online [Find a Recruiter](https://www.airforce.com/find-a-recruiter) tool.
 
 > *Disclaimer: The contents of this website are for educational purposes only and do not reflect the official policy or position of the Department of the Air Force or the U.S. Government.*

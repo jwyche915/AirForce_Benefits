@@ -2,10 +2,10 @@
 
 Imagine walking into a civilian job interview—especially with no previous experience or college degree—and sliding this list of demands across the table:
 
-* A starting salary package that competes directly with careers requiring a 4-year college degree
+* A salary package that competes directly with careers requiring a 4-year college degree
 * 100% covered medical and dental for me and my family
 * 30 days of vacation with pay per year (plus time off on federal holidays)
-* Full college tuition, a monthly housing allowance, and a book stipend for 36 months (which can even be passed to my dependents)
+* Full college tuition, a monthly housing allowance, and a book stipend (which can even be passed to my dependents)
 * A guaranteed home mortgage with $0 down and no Private Mortgage Insurance (PMI)
 
 The hiring manager would probably laugh you out of the room. 
