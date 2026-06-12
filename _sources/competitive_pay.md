@@ -3,11 +3,11 @@
 Our society pushes college as the "golden ticket" to success. And while getting a college degree is ONE path to "success", there are other viable options that are often overlooked. The Air Force being one of them. This section attempts to present a comparison of a college graduate to someone who chose to enlist in the Air Force. 
 
 ## Direct Compensation
-We start the comparison by looking at the direct compensation (i.e. pay) a recent college graduate to someone who's been serving in the Air Force for 4 years. 
+We start the comparison by looking at the direct compensation (i.e. pay) of a recent college graduate to someone who's been serving in the Air Force for 4 years. 
 
 ### Assumptions:
 - Because civlian and military pay varies based on location, we'll based this comparison on someone living in Orlando, FL.
-- The rank of the military member is Senior Airman (SrA). The average time for advancement to SrA is 3 years.
+- The rank of the military member is Senior Airman (SrA). The average time for advancement to SrA is 3 years, so we can safely assume the military member will be a SrA at the 4-year point.
 - Presented salaries are based on data pulled from sources in May 2024.
 
 Single Airman
