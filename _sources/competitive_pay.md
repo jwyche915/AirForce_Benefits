@@ -31,8 +31,8 @@ Even if you graduate debt-free or pursue a highly-paid STEM career like Electric
 You can pay for your degree (or spend your scholarships early), or you can let the Air Force pay you to earn it. When you look at the total financial picture, the choice is clear.
 
 ### Data Sources & Methodology (June 2026)
-* **Military Pay:** Based on the official 2026 DFAS Military Pay Chart for an E-4 with over 4 years of service ($41,788.68/yr), plus the 2026 Enlisted BAS rate ($5,523/yr).
-* **Housing Allowance (BAH):** Based on the 2026 DTMO BAH Calculator for Military Housing Area FL062 (Orlando, FL). Single rate: $22,104/yr. With Dependents rate: $35,532/yr.
+* **Military Pay:** Based on the official 2026 DFAS Military Pay Chart for an E-4 with over 4 years of service (\$41,788.68/yr), plus the 2026 Enlisted BAS rate (\$5,523/yr).
+* **Housing Allowance (BAH):** Based on the 2026 DTMO BAH Calculator for Military Housing Area FL062 (Orlando, FL). Single rate: \$22,104/yr. With Dependents rate: \$35,532/yr.
 * **Civilian Salaries:** Teacher salary sourced from the Orange County Public Schools (OCPS) 2025-2026 starting step scale. RN and Electrical Engineer salaries sourced from ZipRecruiter's entry-level averages for Orlando, FL.
 
 > *Disclaimer: The contents of this website are for educational purposes only and do not reflect the official policy or position of the Department of the Air Force or the U.S. Government.*
