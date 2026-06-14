@@ -10,8 +10,8 @@ Unlike traditional 401(k) plans, the BRS uses two distinct wealth-building compo
 
 ### 1. The Defined Benefit (The Lifetime Pension)
 If you serve 20 or more years in the Air Force, you qualify for a lifetime monthly pension immediately upon your separation from the Air Force. 
-* **The Formula:** Your pension is calculated as:
-  $$\text{Pension} = 2.0\% \times \text{Years of Service} \times \text{Average of Your Highest 36 Months of Basic Pay}$$
+* **The Formula:** Your monthly pension payment is calculated as:
+  $\text{Pension} = 2.0\% \times \text{Years of Service} \times \text{Average of Your Highest 36 Months of Basic Pay}$
   *(For example, serving 20 years yields a guaranteed monthly check equal to 40% of the average of your highest 36 months of basic pay).*
 * **Inflation Protection:** Military pensions feature an annual Cost of Living Adjustment (COLA) to protect your purchasing power against inflation.
 
