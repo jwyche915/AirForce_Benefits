@@ -8,6 +8,8 @@ $4,500 for additional certifications outside of a college degree
 
 Education and career assistance for my spouse
 
+Commissioning Scholarships: USAFA (LEAD?), NECP, SOAR, ASCP, POC-ERP, etc.
+
 Technical training and on-the-job upgrade training
 
 paid a salary with all benefits will I’m in training
